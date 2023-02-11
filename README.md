@@ -8,6 +8,6 @@
 <br></br>
 🟢 Intern
 <br></br>
-🟢 Passionate about art and frontend, and backend development.
+🟢 Passionate about art, frontend, and backend development.
 <br></br>
 🟢 Will be learning to work with operating systems and networking at internship.
