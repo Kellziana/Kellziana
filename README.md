@@ -4,7 +4,7 @@
 <br></br>
 🟢 Samina Arshad
 <br></br>
-🟢 UCC Computer Science Gradyate
+🟢 UCC Computer Science Graduate
 <br></br>
 🟢 Passionate about fontend and backend development as well as UI/UX design.
 <br></br>
