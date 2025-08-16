@@ -8,7 +8,7 @@
 <br></br>
 🟢 Passionate about fontend and backend development as well as UI/UX design.
 <br></br>
-🟢 Experience with Python, JavaScript, HTML/CSS, Java, C, SQL, Mongo, Git, Linux and more.
+🟢 Experience with Python, JavaScript (including Node, Next, React), HTML/CSS, Java, C, SQL, Mongo, Git, Linux and more.
 <br></br>
 🟢 Beginner-intermediate knowldege in computer architecture, operating systems, security systems, networking, algorithms, logic design and artificial intelligence.
 <br></br>
