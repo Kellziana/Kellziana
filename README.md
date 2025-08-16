@@ -4,10 +4,11 @@
 <br></br>
 🟢 Samina Arshad
 <br></br>
-🟢 3rd Year Computer Science Student
+🟢 UCC Computer Science Gradyate
 <br></br>
-🟢 Intern
+🟢 Passionate about fontend and backend development as well as UI/UX design.
 <br></br>
-🟢 Passionate about art, frontend, and backend development.
+🟢 Experience with Python, JavaScript, HTML/CSS, Java, C, SQL, Mongo, Git, Linux and more.
 <br></br>
-🟢 Will be learning to work with operating systems and networking at internship.
+🟢 Beginner-intermediate knowldege in computer architecture, operating systems, security systems, networking, algorithms, logic design and artificial intelligence.
+<br></br>
